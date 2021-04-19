@@ -1,5 +1,5 @@
 ﻿
-USE [MMT]
+USE [MMTShop]
 GO
 
 --drop table ProductCategory
